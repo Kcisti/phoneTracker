@@ -1,4 +1,7 @@
 # Presentation
+Python Phone Number Tracking Algorithm.
+With this tool, you can enter a phone number and immediately get detailed information about who is hiding behind that number. It’s quick and easy, just like sending a message!
+Whether you want to find out who called you, keep track of your contacts or just satisfy your curiosity, our algorithm is here to help. It’s like having a digital private investigator at your disposal!
 
 # Tested on platforms:
   - Windows
