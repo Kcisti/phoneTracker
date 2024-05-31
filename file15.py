@@ -33,5 +33,3 @@ def main():
         print(f" {Wh}Type            :{Gr} fixed-line number")
     else:
         print(f" {Wh}Type            :{Gr} unknown")
-
-main()
